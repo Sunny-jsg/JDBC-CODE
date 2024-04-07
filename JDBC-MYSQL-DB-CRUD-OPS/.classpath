@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/mysql-connector.jar/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="D:/mysql-connector-java-8.0.30-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
